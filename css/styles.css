@@ -442,10 +442,6 @@ height: 300px;
     color: #404bbf; 
 }
 
-.customers-link:hover .customers-icon {
-fill: #404BBF;
-}
-
 .customers-icon {
     width: 104px;
     height: 56px;
